@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>data attr</title>
+</head>
+<body>
+<div id="tabs">
+    <ul>
+        <li data-target =".panel-news">新闻</li>
+        <li data-target=".panel-bagua">八卦</li>
+        <li data-target=".panel-funs">娱乐</li>
+        <li data-target=".panel-edu">教育</li>
+        <li data-target=".panel-study">学习</li>
+    </ul>
+    <div class="panels">
+        <div class="panel-news"></div>
+        <div class="panel-bagua"></div>
+        <div class="panel-funs"></div>
+        <div class="panel-edu"></div>
+        <div class="panel-study"></div>
+    </div></div>
+<script src="jquery-1.11.1.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+        var $lis = $("#tabs>ul>li");
+        //api 应用程序编程接口
+        $lis.on("click", function () {
+            var targetSelect = $(this).data("target");
+            var $target = $(targetSelect);
+        })
+    })
+</script>
+</body>
+</html>

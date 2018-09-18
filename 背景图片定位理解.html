@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <style>
+        div{
+            float: left;
+            margin: 20px;
+        }
+        .size .border-box{
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+            box-sizing: border-box;
+            border: 10px dashed red;
+        }
+        .size .content-box{
+            width: 200px;
+            height: 200px;
+            background-color: pink;
+            box-sizing: content-box;
+            border: 10px dashed red;
+        }
+        .clip .border-box{
+            width: 200px;
+            height: 200px;
+            padding: 10px;
+            border: 10px dashed red;
+            background-clip: border-box;
+            background-color: pink;
+           /* background: url("images/bg%20-%20副本.jpg") no-repeat;*/
+
+        }
+        .clip .content-box{
+            width: 200px;
+            height: 200px;
+            padding: 10px;
+            box-sizing: content-box;
+            border: 10px dashed red;
+            background-color: pink;
+            background-clip: content-box;
+        }
+        .origin .border-box{
+            width: 200px;
+            height: 200px;
+            padding: 20px;
+            border: 10px dashed red;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-origin: border-box;
+        }
+        .origin .content-box{
+            width: 200px;
+            height: 200px;
+            padding: 20px;
+            border: 10px dashed red;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-origin: content-box;
+        }
+
+        .origin .padding-box{
+            width: 200px;
+            height: 200px;
+            padding: 20px;
+            border: 10px dashed red;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-origin: padding-box;
+        }
+        .background-size .cover{
+            width: 200px;
+            height: 400px;
+            padding: 20px;
+            border: 10px dashed red;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-size: cover;
+        }
+        .background-size .content{
+            width: 200px;
+            height: 400px;
+            padding: 20px;
+            border: 10px dashed red;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-size: cover;
+        }
+        .wrap{
+            width: 130px;
+            height: 130px;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-size: 100%;
+            position: relative;
+        }
+        .left{
+            margin: 0;
+            width: 130px;
+            height: 130px;
+            padding: 30px;
+            box-sizing: border-box;
+            background: white;
+            background-clip: content-box;
+            position: absolute;
+        }
+        .right{
+            margin: 0;
+            width: 130px;
+            height: 130px;
+            padding: 30px;
+            box-sizing: border-box;
+            background: url("images/bg%20-%20副本.jpg") no-repeat;
+            background-clip: content-box;
+            position: absolute;
+            right: -10px;
+            top: 10px;
+        }
+
+    </style>
+    <title></title>
+</head>
+<body>
+<div class="size">
+    <div class="border-box"></div>
+</div>
+<div class="size">
+    <div class="content-box"></div>
+</div>
+<div class="clip">
+    <div class="border-box"></div>
+</div>
+<div class="clip">
+    <div class="content-box"></div>
+</div>
+<div class="origin">
+    <div class="border-box"></div>
+</div>
+<div class="origin">
+    <div class="content-box"></div>
+</div>
+<div class="origin">
+    <div class="padding-box"></div>
+</div>
+<div class="background-size">
+    <div class="cover"></div>
+</div>
+<div class="background-size">
+    <div class="content"></div>
+</div>
+<div class="wrap">
+    <div class="left"></div>
+    <div class="right"></div>
+</div>
+
+</body>
+</html>

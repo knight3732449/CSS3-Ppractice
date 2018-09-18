@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <style>
+        .chest{
+            width: 200px;
+            height: 200px;
+            margin: 100px auto;
+            position: relative;
+            border: 1px solid black;
+        }
+        .heart{
+            background-color: red;
+            animation: beat 1s linear infinite;
+        }
+        .left{
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            position: absolute;
+            left: 10px;
+            z-index: 3;
+        }
+        .right{
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            position: absolute;
+            right: 10px;
+        }
+        .center{
+            width: 100px;
+            height: 100px;
+            transform: rotate(45deg);
+            position: absolute;
+            bottom: 60px;
+            left: 50px;
+        }
+        @keyframes beat {
+            0%{
+                transform: scale(1) rotate(45deg);
+            }
+            50%{
+                transform: scale(1.2) rotate(45deg);
+            }
+            100%{
+                transform: scale(1) rotate(45deg);
+            }
+        }
+    </style>
+    <title></title>
+</head>
+<body>
+<div class="chest">
+    <div class="left heart"></div>
+    <div class="center heart"></div>
+    <div class="right heart"></div>
+</div>
+
+</body>
+</html>

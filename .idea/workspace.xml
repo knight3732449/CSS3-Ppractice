@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3983c3c6-826a-4464-ac28-6993478616e4" name="默认的" comment="" />
+    <ignored path="html5+css3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html5+css3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="过渡练习.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/过渡练习.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="360网站.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/360网站.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+              <folding>
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/360/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="322" lean-forward="true" selection-start-line="322" selection-end-line="322" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5928">
+              <caret line="312" column="14" selection-start-line="312" selection-start-column="14" selection-end-line="312" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="未命名" />
+        <option value="Html5" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/应用程序标签.html" />
+        <option value="$PROJECT_DIR$/data(自定义属性).html" />
+        <option value="$PROJECT_DIR$/mp3.html" />
+        <option value="$PROJECT_DIR$/test.md" />
+        <option value="$PROJECT_DIR$/回顾.html" />
+        <option value="$PROJECT_DIR$/Element class List.html" />
+        <option value="$PROJECT_DIR$/访问历史.html" />
+        <option value="$PROJECT_DIR$/日历（选择器练习）.html" />
+        <option value="$PROJECT_DIR$/css3圆角.html" />
+        <option value="$PROJECT_DIR$/边框圆角练习.html" />
+        <option value="$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/边框/03 边框-阴影.html" />
+        <option value="$PROJECT_DIR$/边框阴影.html" />
+        <option value="$PROJECT_DIR$/实验.html" />
+        <option value="$PROJECT_DIR$/边框图片.html" />
+        <option value="$PROJECT_DIR$/伸缩布局.html" />
+        <option value="$PROJECT_DIR$/伸缩布局align-items.html" />
+        <option value="$PROJECT_DIR$/伸缩布局align-content.html" />
+        <option value="$PROJECT_DIR$/多张背景练习.html" />
+        <option value="$PROJECT_DIR$/背景图片定位理解.html" />
+        <option value="$PROJECT_DIR$/伸缩布局课堂练习.html" />
+        <option value="$PROJECT_DIR$/渐变色课堂练习--径向.html" />
+        <option value="$PROJECT_DIR$/CSS3渐变应用练习.html" />
+        <option value="$PROJECT_DIR$/过渡练习.html" />
+        <option value="$PROJECT_DIR$/CSS3动画练习.html" />
+        <option value="$PROJECT_DIR$/跳动的心.html" />
+        <option value="$PROJECT_DIR$/3D旋转.html" />
+        <option value="$PROJECT_DIR$/动态进度条.html" />
+        <option value="$PROJECT_DIR$/课堂练习 跳动的心.html" />
+        <option value="$PROJECT_DIR$/360网站.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>EJS</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Jade</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Meteor</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>常规</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html5+css3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html5+css3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS3补充" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WEB\练习文件\html5+css3" />
+      <recent name="E:\WEB\练习文件\html5+css3\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="伸缩布局.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/html5+css3/伸缩布局.html" />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3983c3c6-826a-4464-ac28-6993478616e4" name="默认的" comment="" />
+      <created>1520337889477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520337889477</updated>
+      <workItem from="1522072745376" duration="96000" />
+      <workItem from="1522074462386" duration="1722000" />
+      <workItem from="1522076479023" duration="1264000" />
+      <workItem from="1522077770232" duration="2917000" />
+      <workItem from="1522152580467" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6618000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1376" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25261584" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.34150326" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32861635" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="版本控制" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/360/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="120" column="30" lean-forward="true" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/过渡练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5339">
+          <caret line="281" column="32" selection-start-line="281" selection-start-column="32" selection-end-line="281" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360网站.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回顾.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Element class List(Vist History).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日历（选择器练习）.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="261" column="7" selection-start-line="261" selection-start-column="7" selection-end-line="261" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data(自定义属性).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/01-CSS3基础-第1天/4-源代码/边框/02 边框-圆角.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/边框/03 边框-阴影.html" />
+    <entry file="file://$PROJECT_DIR$/边框阴影.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="148" column="26" selection-start-line="148" selection-start-column="26" selection-end-line="148" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/边框圆角练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="300" column="36" selection-start-line="300" selection-start-column="36" selection-end-line="300" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/边框/04 边框图片.html" />
+    <entry file="file://$PROJECT_DIR$/边框图片.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/09 伸缩布局/01 伸缩布局-介绍.html" />
+    <entry file="file://$PROJECT_DIR$/伸缩布局.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/09 伸缩布局/02 伸缩布局-详解 flex-direction.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/09 伸缩布局/04 伸缩布局-详解 align-items.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/09 伸缩布局/06 伸缩布局-详解 align-content.html" />
+    <entry file="file://$PROJECT_DIR$/伸缩布局align-content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/背景/background-muilt.html" />
+    <entry file="file://$PROJECT_DIR$/多张背景练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/盒模型/01 盒模型-介绍.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/盒模型/02 盒模型-详解.html" />
+    <entry file="file://$PROJECT_DIR$/伸缩布局课堂练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/渐变色课堂练习--径向.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="116" column="25" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/09 伸缩布局/11 伸缩布局-应用.html" />
+    <entry file="file://$PROJECT_DIR$/背景图片定位理解.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="90" column="14" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/02-CSS3基础-第2天/4-源代码/背景/background-origin.html" />
+    <entry file="file://$PROJECT_DIR$/访问历史.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="176" column="46" selection-start-line="176" selection-start-column="46" selection-end-line="176" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/伸缩布局align-items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="78" column="34" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3渐变应用练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3动画练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/12 动画/03 动画-应用1.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/2-其它资料/Heart/index.html" />
+    <entry file="file://$PROJECT_DIR$/css3圆角.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/动态进度条/index.html" />
+    <entry file="file://$PROJECT_DIR$/跳动的心.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/课堂练习 跳动的心.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3D旋转.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/08 渐变/02 渐变-径向.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/360/js/jquery.fullPage.min.js" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/03-CSS3基础-第3天/4-源代码/12 动画/02 动画-详解.html" />
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/360/index.html" />
+    <entry file="file://$PROJECT_DIR$/实验.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态进度条.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/过渡练习.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/360网站.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5928">
+          <caret line="312" column="14" selection-start-line="312" selection-start-column="14" selection-end-line="312" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../购买WEB教程/07.CSS3/04-CSS3基础-第4天/代码和笔记/4-源代码/16 综合应用/360/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="322" lean-forward="true" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.215" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

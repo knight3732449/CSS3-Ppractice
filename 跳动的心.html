@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <style>
+        html,body{
+            height: 100%;
+        }
+        body{
+            background-color: #ffa5a5;
+            background-image: linear-gradient(to bottom,#ffa5a5,#ffd3d3);
+        }
+        .chest{
+            height: 500px;
+            width: 500px;
+            position: relative;
+            margin: 0 auto;
+
+        }
+        .heart{
+            background-color: #f50a45;
+            position: absolute;
+            background: linear-gradient( -90deg, #f50a45 0%,#d5093c 40%);
+            animation: beat 1s linear 0s infinite normal;
+        }
+        .heart.center{
+            background: linear-gradient( -45deg,#b80734 0%,#d5093c 40%)
+        }
+        .heart.top{
+            z-index: 3;
+        }
+        .side{
+            width: 220px;
+            height: 220px;
+            border-radius: 110px;
+            top: 100px;
+        }
+        .left{
+            left: 60px;
+        }
+        .right{
+            right: 60px;
+        }
+        .center{
+            width: 210px;
+            height: 210px;
+            bottom: 100px;
+            font-size: 0;
+            left: 145px;
+        }
+        @keyframes beat {
+            0%{
+                transform: scale(1) rotate(225deg);
+                box-shadow:  0 0 40px #d5093c;
+            }
+            50%{
+                transform: scale(1.1) rotate(225deg);
+                box-shadow:  0 0 70px #d5093c;
+            }
+            100%{
+                transform: scale(1) rotate(225deg);
+                box-shadow:  0 0 40px #d5093c;
+            }
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div class="chest">
+    <div class="left heart side top "></div>
+    <div class="center heart">&hearts;</div>
+    <div class="right heart side"></div>
+</div>
+
+</body>
+</html>

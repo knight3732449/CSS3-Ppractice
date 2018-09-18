@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>data属性</title>
+</head>
+<body>
+<ul id="list">
+</ul>
+<script>
+    //键是ID，值是内容
+     var data = {
+         01:{name:"张三1",
+     age:18},
+         02:{name:"张三2",
+     age:19},
+         03:{name:"张三3",
+     age:20}
+     };
+    var list = document.getElementById("list");
+    for(var k in data){
+        var item = data[k];
+        var liElement = document.createElement("li");
+        liElement.appendChild(document.createTextNode(data[k].name));
+        liElement.setAttribute('data-age',item.age);
+        liElement.setAttribute('data-id',item.id);
+        list.appendChild(liElement);
+        liElement.addEventListener("click", function () {
+            console.log(this.getAttribute('data-age'));
+            //console.log(this.dataset['age']);
+        })
+    }
+</script>
+</body>
+</html>

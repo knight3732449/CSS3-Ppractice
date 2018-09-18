@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <style>
+        div{
+            width: 200px;
+            height: 200px;
+            margin: 20px auto;
+        }
+        .rotateX{
+            background-image: linear-gradient(to bottom, yellow 0%, blue 50% );
+        }
+        .rotateX:hover{
+            transform: rotateX(60deg);
+            transition: all 3s;
+        }
+        .rotateY{
+            background-image: linear-gradient(to left, green, blue);
+        }
+        .rotateY:hover{
+            transform: rotateY(60deg);
+            transition: all 3s;
+        }
+        .rotateZ{
+            background-image: radial-gradient(circle 100px, green, blue);
+        }
+        .rotateZ:hover{
+            transform: rotateZ(60deg);
+            transition: all 3s;
+        }
+    </style>
+    <title></title>
+</head>
+<body>
+<div class="rotateX"></div>
+<div class="rotateY"></div>
+<div class="rotateZ"></div>
+</body>
+</html>

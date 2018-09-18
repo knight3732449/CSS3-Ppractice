@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <style>
+        .items{
+            width: 200px;
+            height: 200px;
+            background-color: yellow;
+            margin: 10px;
+
+        }
+        .wrap{
+            height: 100%;
+            width: 100%;
+        }
+        .items:nth-child(1){
+            transition-property: width , height ,opacity;
+            transition-duration: 2s;
+            transition-timing-function: linear;
+            position: absolute;
+            left: 0;
+        }
+        .items:nth-child(1):hover{
+            width: 500px;
+            height: 500px;
+            opacity: 0;
+        }
+    </style>
+    <title></title>
+</head>
+<body>
+<div class="wrap">
+    <div class="items"></div>
+
+</div>
+</body>
+</html>
